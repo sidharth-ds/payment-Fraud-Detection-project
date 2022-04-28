@@ -23,5 +23,5 @@
         * Tomek links
         * Cluster centroids
     * or using oversampling techniques:
-        * •	SMOTE (Synthetic Minority Oversampling Technique)
+        * SMOTE (Synthetic Minority Oversampling Technique)
 * And then apply ML algorithm on the balanced dataset
